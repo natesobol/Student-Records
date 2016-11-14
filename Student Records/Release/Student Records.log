@@ -1,7 +1,4 @@
-﻿  studentRecord.cpp
-  studentRecordLib.cpp
-studentRecordLib.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  students.cpp
+﻿  students.cpp
 students.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 students.cpp(56): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
 students.cpp(59): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
