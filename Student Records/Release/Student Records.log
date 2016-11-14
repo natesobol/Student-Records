@@ -1,0 +1,18 @@
+﻿  studentRecord.cpp
+  studentRecordLib.cpp
+studentRecordLib.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  students.cpp
+students.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+students.cpp(56): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+students.cpp(59): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+students.cpp(151): warning C4018: '<': signed/unsigned mismatch
+students.cpp(156): warning C4018: '<': signed/unsigned mismatch
+students.cpp(160): warning C4018: '<': signed/unsigned mismatch
+students.cpp(164): warning C4018: '<': signed/unsigned mismatch
+students.cpp(168): warning C4018: '<': signed/unsigned mismatch
+students.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 372 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Student Records.vcxproj -> c:\users\nates\documents\visual studio 2015\Projects\Student Records\Release\Student Records.exe
+  Student Records.vcxproj -> c:\users\nates\documents\visual studio 2015\Projects\Student Records\Release\Student Records.pdb (Full PDB)
